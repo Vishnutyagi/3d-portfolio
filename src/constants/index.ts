@@ -203,8 +203,8 @@ export const PROJECTS = [
       },
     ],
     image: project1,
-    source_code_link: "https://github.com/Vishnutyagi/food-hut-front",
-    live_site_link: "https://food-hut-mocha.vercel.app/",
+    source_code_link: "https://github.com/Vishnutyagi/food-hut",
+    live_site_link: "http://food-hut-front.vercel.app",
   },
   {
     name: "Split Wise Application",
